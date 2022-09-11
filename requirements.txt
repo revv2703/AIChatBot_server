@@ -142,7 +142,6 @@ pdfminer.six==20211012
 pefile==2021.9.3
 pickleshare==0.7.5
 Pillow==9.0.0
-placementChahiye==0.0.4
 platformdirs==2.5.1
 pluggy==1.0.0
 portend==3.1.0
