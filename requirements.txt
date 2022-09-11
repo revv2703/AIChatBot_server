@@ -2,3 +2,5 @@ transformers
 numpy
 gunicorn
 flask
+pytorch
+tensorflow
